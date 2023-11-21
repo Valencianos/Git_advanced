@@ -7,3 +7,5 @@ This is my second commit!!
 This is my last commit!!!
 
 Here we go again!
+
+This repository is only for testing git opportunities.
